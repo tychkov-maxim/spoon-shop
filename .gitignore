@@ -1,0 +1,4 @@
+/spoon-app/node_modules/
+target/
+*.iml
+.idea/
